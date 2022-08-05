@@ -1,0 +1,7 @@
+node_modules
+uploads
+log
+config.js
+bin
+bin/www
+.env
